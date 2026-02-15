@@ -1,0 +1,11 @@
+## Interface: 120001
+## Title: Mochi QoL
+## Notes: A small quality-of-life addon created while learning WoW addon development.
+## Author: MochiDin - Frostmourne
+## Version: 1.0.0
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+## SavedVariables:
+## SavedVariablesPerCharacter:
+
+MochiQoL.lua
